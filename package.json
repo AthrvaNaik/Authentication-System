@@ -14,7 +14,7 @@
     "-": "^0.0.1",
     "authentication-system": "file:",
     "bcryptjs": "^2.4.3",
-    "cookie-parser": "^1.4.6",
+    "cookie-parser": "^1.4.7",
     "crypto": "^1.0.1",
     "D": "^1.0.0",
     "dotenv": "^16.4.5",
