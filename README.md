@@ -1,5 +1,3 @@
----
-
 # Authentication App
 
 This is a full-stack authentication application designed to provide functionalities like user signup, email verification, login, password reset, and route protection. The app is structured into two parts: a backend server built with Express and a frontend built with React.
@@ -119,5 +117,3 @@ For production deployment, ensure that your environment variables are properly s
 - **jsonwebtoken**: For generating and verifying JWT tokens
 - **Mailtrap**: For testing email sending in development
 - **Mongoose**: For interacting with MongoDB
-
----
