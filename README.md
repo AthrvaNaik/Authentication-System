@@ -107,11 +107,6 @@ To run the app in production mode:
 - `POST /api/auth/reset-password`: Reset password using token
 - `GET /api/auth/check-auth`: Check authentication status
 
-### Deployment
-
-For production deployment, ensure that your environment variables are properly set. You can deploy the backend on any server like AWS, DigitalOcean, or Heroku, and the frontend can be deployed using services like Vercel or Netlify.
-
-
 ## Acknowledgements
 - **bcryptjs**: For secure password hashing
 - **jsonwebtoken**: For generating and verifying JWT tokens
