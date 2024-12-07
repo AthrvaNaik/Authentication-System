@@ -1,5 +1,3 @@
-Here's a sample README file based on the features and provided code for your Authentication App:
-
 ---
 
 # Authentication App
